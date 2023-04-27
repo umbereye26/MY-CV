@@ -1,0 +1,162 @@
+*{
+margin: 0;
+padding: 0;
+}
+
+.holepage{
+    margin-top:40px ;
+    justify-content: center;
+    margin: 20px;
+    display: flex;
+    /* width: 76%; */
+    /* border: 1px solid gray; */
+    /* background-color:whitesmoke; */
+}
+.card1{
+    background-color: rgb(7, 7, 82);
+    width: 20%;
+}
+#image img{
+    padding: 20px;
+    padding-left: 10px;
+border-radius: 50%;
+    height: 250px;
+    width: 250px;
+}
+span i{
+    color:  rgb(210, 109, 20);
+    font-size: 30px;
+}
+.contact{
+    padding: 20px;
+    line-height: 50px;
+}
+.contact h4{
+color:  rgb(210, 109, 20); 
+/* color: whitesmoke; */
+text-align: center;
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+font-size: 30px;
+}
+.contact p{
+    color: whitesmoke;
+    font-size: 20px;
+    padding-left: 10px;
+    padding-top:-70px;
+    line-height: 30px;
+}
+
+
+
+
+/* skills */
+.skills{ 
+
+    display: flex;
+    justify-content: space-between;
+    /* padding-top: 14vh; */
+    /* margin: 40px; */
+    /* line-height: 2rem; */
+}.html-skills{
+    display: flex;
+    justify-content: space-between;
+font-family: serif;
+font-weight: bold;
+font-size: 18px;
+}
+.bar{
+    width: 30vh;
+    height: 2vh;
+    display: block;
+    background-color: rgb(168, 164, 164);
+    /* border-radius: 10px; */
+}
+.bar span{
+    padding-top: -20px;
+    height:2vh;
+    float: left;
+    background-color: rgb(210, 109, 20) ;
+    /* border-radius: 10px; */
+}
+.html{
+    width: 98%;
+    animation: html;
+}
+.css{
+    width: 85%;
+    animation: css;
+}
+.js{
+
+    width: 70%;
+    animation: html;
+}
+.f{
+    width: 30%;
+}
+.card2{
+    background-color: rgb(235, 234, 231);
+border: 3px solid rgb(7, 7, 82);
+box-sizing: 40px;
+    width: 50%;
+    /* margin: 20px; */
+  padding: 40PX;  
+}
+.card2 h1{
+ color:rgb(7, 7, 82);
+ text-align: center;
+}
+.card2 h2{
+    color:rgb(7, 7, 82);
+    text-align: center; 
+}
+.profile h3{
+    width: 90%;
+    background-color:rgb(7, 7, 82) ;
+    color: rgb(210, 109, 20);
+     text-align: center;
+     margin-left: 5px;
+     margin-top: 30px;
+     font-size: 25px;
+     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.profile p{
+    padding-top: 20px;
+    font-size: 17px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.education h3{
+    width: 90%;
+    background-color:rgb(7, 7, 82) ;
+    color: rgb(210, 109, 20);
+     text-align: center;
+     margin-left: 5px;
+     margin-top: 30px;
+     font-size: 25px;
+     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+}
+.education p{
+    padding-top: 20px;
+    font-size: 17px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+ 
+}
+.education h4{
+    font-size: 23px;
+    padding-top: 18px;
+}
+.education h5{
+    font-size: 23px;
+    padding-top: 18px;   
+}
+.skill H3{
+    width: 90%;
+    background-color:rgb(7, 7, 82) ;
+    color: rgb(210, 109, 20);
+     text-align: center;
+     margin-left: 5px;
+     margin-top: 30px;
+     font-size: 25px;
+     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
